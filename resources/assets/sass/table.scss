@@ -1,0 +1,10 @@
+@import "~spectre.css/src/spectre";
+@import "~spectre.css/dist/spectre-icons.css";
+
+.task {
+  border: $border-width solid $gray-color;
+  margin: 10%;
+  padding: 1%;
+  background-color: #f8f4ff;
+}
+
